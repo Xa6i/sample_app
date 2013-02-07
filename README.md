@@ -1,4 +1,4 @@
 # Ruby on Rails Tutorial: sample application
 
-This is the sample application for the [Ruby on Rails Tutorial](http://railstutorial.org/) by [Mikey](http://michaelhartl.com/).
+This is the sample application for the [Ruby on Rails Tutorial](http://railstutorial.org/) by [some Grad Turkey](http://michaelhartl.com/).
  
